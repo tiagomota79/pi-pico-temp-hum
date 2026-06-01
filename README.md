@@ -62,3 +62,7 @@ Change the screens using the buttons in the LCD screen. Due to the screen defaul
 - Key 0: Screen 4
 
 For the device to correctly show the temperature in your local, you need yout latitude and longitude values, as well as an OpenWeather API key.
+
+## Known limitations
+
+The last update time is calculated manually from UTC, with no automatic change for Daylight Saving Time.
